@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="git"
+           fetch=".." />
+
+  <default revision="master"
+           remote="git"
+           sync-j="4" />
+
+  <project path="arduino/relay" name="LehighHyperloop/arduino_relay" />
+  <project path="debug/pod-sim" name="LehighHyperloop/debug_pod-sim" />
+  <project path="debug/test-systems" name="LehighHyperloop/debug_test-systems" />
+  <project path="documentation" name="LehighHyperloop/documentation" />
+  <project path="vcu/conext-combox-link" name="LehighHyperloop/vcu_conext-combox-link" />
+  <project path="vcu/hyperloop-control-panel" name="LehighHyperloop/vcu_hyperloop-control-panel" />
+  <project path="vcu/vcu" name="LehighHyperloop/vcu_vcu" />
+</manifest>

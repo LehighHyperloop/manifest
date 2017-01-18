@@ -13,5 +13,6 @@
   <project path="documentation" name="LehighHyperloop/documentation" />
   <project path="vcu/conext-combox-link" name="LehighHyperloop/vcu_conext-combox-link" />
   <project path="vcu/hyperloop-control-panel" name="LehighHyperloop/vcu_hyperloop-control-panel" />
+  <project path="vcu/suspension-link" name="LehighHyperloop/vcu_suspension-link" />
   <project path="vcu/vcu" name="LehighHyperloop/vcu_vcu" />
 </manifest>

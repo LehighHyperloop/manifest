@@ -6,6 +6,6 @@ To download to the `src` directory:
 ```
 mkdir src
 cd src
-repo init -u git@github.com:LehighHyperloop/manifest.git
+repo init -u git@github.com:/LehighHyperloop/manifest.git
 repo sync
 ```
